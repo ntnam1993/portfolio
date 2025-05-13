@@ -150,7 +150,7 @@ const projects = [
   {
     id: 'project-1',
     name: 'GotoBlink',
-    description: 'A comic characters list app that displays Marvel characters.',
+    description: 'This project work about logistic. It provide template for end user can register, make a booking to ship from collection to direction. It will manage distance to know the shipper can ship on day, two day or more.',
     tags: [
       {
         name: 'golang',
@@ -172,8 +172,7 @@ const projects = [
   {
     id: 'project-2',
     name: 'Octopush',
-    description:
-      'A leaderboard list app that displays scores submitted by different players.',
+    description:'This project provide send sms campaign, email campaign for many users.',
     tags: [
       {
         name: 'php',
@@ -195,7 +194,7 @@ const projects = [
   {
     id: 'project-3',
     name: 'Surveys',
-    description: 'This is a single-page calculator app built with React',
+    description: 'This project create survey and allow user register to make survey and recieve point- User can use point to change ticket which used to discount in market place or some shop',
     tags: [
       {
         name: 'php',
@@ -217,7 +216,7 @@ const projects = [
   {
     id: 'project-4',
     name: 'The cups coffee',
-    description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
+    description: 'This project is a website for a coffee shop. It is a simple website with a lot of information about the coffee shop.',
     tags: [
       {
         name: 'laravel',
