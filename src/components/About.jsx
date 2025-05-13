@@ -37,7 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-          I have more than 6 years experience in web development, the most of time I worked with the PHP language, beside that I have experience with Golang language nearly 2 years.
+          I have about 8 years experience in web development, the most of time I worked with the PHP language, beside that I have experience with Golang language nearly 2 years.
           The main business domain of the most of project which I did include the E-commerce, Human Resources System and CMS.
           About back-end site, I work with PHP and Golang language,
           About front-end site, I work with Vuejs language,
