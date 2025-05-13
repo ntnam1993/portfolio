@@ -46,7 +46,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              A website developer with more than 6 years experience.
+              A website developer with about 8 years experience.
             </p>
           </div>
           <div
