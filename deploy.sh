@@ -21,6 +21,6 @@ git commit -m 'deploy'
 # git push -f git@github.ntnam1993:ntnam1993/ntnam1993.github.io.git main
 
 # if you are deploying to https://github.com/ntnam1993/portfolio.git
-git push -f git@github.ntnam1993:ntnam1993/portfolio.git master:gh-pages
+git push -f git@github.ntnam1993:ntnam1993/portfolio.git main:gh-pages
 
 cd -
